@@ -15,7 +15,7 @@ to run Elixir/Erlang apps. It's based off of Alpine Linux.
 ## Sample usage
 
     FROM brianhicks/minielixir:latest
-    MAINTAINER Brian Hicks <you@yourcompany.com>
+    MAINTAINER Your Name <you@yourcompany.com>
 
     # groundwork
     WORKDIR /app
